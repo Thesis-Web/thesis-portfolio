@@ -16,13 +16,13 @@ Most projects are live or production-adjacent; others are deliberately â€œleanâ€
 ## How to review (10â€“15 minutes)
 
 1. Read this README.
-2. Visit **https://thesisweb.com** (public-facing website about The-Thesis-Project).
+2. Visit **https://thesisweb.com** ## Public-facing website (marketing + signup intake).
 3. Review one backend repo and one architecture/spec repo.
 4. Skim the tooling repo for workflow maturity.
 
 ---
 
-## Live product surface
+## Public-facing website (marketing + signup intake)
 
 ### ThesisWeb
 - **Site:** https://thesisweb.com
@@ -30,10 +30,11 @@ Most projects are live or production-adjacent; others are deliberately â€œleanâ€
 - **Backend repo:** `thesisweb-backend`
 
 This represents:
-- product framing
 - UX discipline
-- safe form handling and API integration
 - low-overhead deployment (Astro + Fastify + SQLite)
+- marketing + positioning
+- lead capture (signup) with hardened API integration
+- staged rollout / invitation-only posture
 
 ---
 
@@ -106,5 +107,5 @@ Public repos are structured to show **how I think and work**, not to disclose se
 
 ## Contact
 
-- LinkedIn: www.linkedin.com/in/james-huson
+- LinkedIn: https://www.linkedin.com/in/james-huson
 - Email: LakeAreaLLC@gmail.com
