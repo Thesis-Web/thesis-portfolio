@@ -107,5 +107,4 @@ Public repos are structured to show **how I think and work**, not to disclose se
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/exnulla
-- Email: LakeAreaLLC@gmail.com
+Email: LakeAreaLLC@gmail.com · LinkedIn: https://www.linkedin.com/in/exnulla
