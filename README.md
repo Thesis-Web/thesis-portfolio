@@ -106,5 +106,5 @@ Public repos are structured to show **how I think and work**, not to disclose se
 
 ## Contact
 
-- LinkedIn: www.linkedin.com/in/james-huson-07abaab2
+- LinkedIn: www.linkedin.com/in/james-huson
 - Email: LakeAreaLLC@gmail.com
