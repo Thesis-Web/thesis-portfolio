@@ -1,0 +1,71 @@
+<!-- TARGET: portfolio README.md -->
+
+# James Huson — Portfolio Index
+
+This repo is an **index** for my public-facing work. Most projects are deployed and can be evaluated by reading the repos and visiting the live sites.
+
+## Quick links
+
+- **thesisweb.com (public)** — marketing + signup funnel (Astro + Tailwind)
+- **thesisweb-backend (service)** — signup API + email integration + SQLite persistence (Fastify)
+- **the-thesis-chain-protocol (specs)** — protocol/spec exploration (consensus + ledger boundaries)
+- **the-thesis-project-architecture (docs)** — public-facing architecture framing for a proprietary system
+- **the-thesis-chain-ai-devkit (docs/code)** — AI safety/devkit framing (threat models + guardrails)
+- **the-thesis-chain-test (sims)** — TypeScript simulations validating system behavior
+
+> Note on IP / confidentiality  
+> Some of the underlying systems are proprietary and/or patent-sensitive. The public repos are intentionally “lean”:
+> they demonstrate architecture rigor, security posture, engineering discipline, and decision-making without exposing
+> sensitive implementation details.
+
+---
+
+## What each repo demonstrates
+
+### thesis-web-com-site (Astro)
+**Signals:** product framing, frontend engineering, accessibility, performance, integration discipline  
+- Modern static site pipeline (Astro, Tailwind)
+- Terminal typing component with reduced-motion support and “skip” UX
+- Clear deploy story (static assets behind nginx)
+
+### thesisweb-backend (Fastify)
+**Signals:** pragmatic backend design, security posture, ops-mindedness  
+- Localhost-bound API service with rate limiting and hardened request handling
+- SQLite persistence (low operational overhead)
+- Email integration as a side-effect (non-blocking)
+
+### the-thesis-chain-protocol (specs)
+**Signals:** systems thinking, rigorous spec writing  
+- Protocol decomposition and boundary design
+- Tradeoff documentation and assumptions spelled out
+
+### the-thesis-project-architecture (docs)
+**Signals:** architecture leadership under constraint (IP, security, governance)  
+- Threat modeling and decision logs
+- Clear articulation of goals, non-goals, and operational model
+
+### the-thesis-chain-ai-devkit (docs/code)
+**Signals:** AI safety posture, guardrails, platform thinking  
+- Threat model oriented design
+- “Safe to share” examples and scaffolding
+
+### the-thesis-chain-test (TypeScript sims)
+**Signals:** engineering validation, model-driven iteration  
+- Simulation harnesses that validate properties of design choices
+- Repeatable scripts to reproduce results
+
+---
+
+## How to evaluate quickly (10–15 minutes)
+
+1. Read **this index** for the repo map.
+2. Open **thesisweb-backend** and skim README → security posture and ops choices.
+3. Open **the-thesis-chain-protocol** and read the “Start here” section.
+4. Open **the-thesis-chain-test** and run one simulation locally (instructions in repo).
+
+---
+
+## Contact
+
+- LinkedIn: (add link)
+- Email: (add)
